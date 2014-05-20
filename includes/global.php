@@ -11,10 +11,10 @@ switch (ENVIRONMENT) {
         $config_url_base['to_wp'] = 'http://wp-localhost.vigilantmedia.com';
         $config_url_base['to_gregbueno'] = 'http://localhost.gregbueno.com';
         $config_url_base['to_eponymous4'] = 'http://localhost.eponymous4.com';
-        $config_url_base['to_archive'] = 'http://localhost.archive.musicwhore.org';
-        $config_url_base['to_musicwhore'] = 'http://musicwhore.wp-localhost.vigilantmedia.com';
-        $config_url_base['to_filmwhore'] = 'http://localhost.film.musicwhore.org';
-        $config_url_base['to_tvwhore'] = 'http://localhost.tv.musicwhore.org';
+        $config_url_base['to_archive'] = 'http://archive.wp-localhost.musicwhore.org';
+        $config_url_base['to_musicwhore'] = 'http://wp-localhost.musicwhore.org';
+        $config_url_base['to_filmwhore'] = 'http://film.wp-localhost.musicwhore.org';
+        $config_url_base['to_tvwhore'] = 'http://tv.wp-localhost.musicwhore.org';
         $config_url_base['to_journalcon'] = 'http://localhost.journalcon.austin-stories.com';
         $config_url_base['to_austinstories'] = 'http://localhost.austin-stories.com';
         $config_url_base['to_ddn'] = 'http://localhost.duran-duran.net';
@@ -33,7 +33,7 @@ switch (ENVIRONMENT) {
         $config_url_base['to_wp'] = 'http://wp.vigilantmedia.com';
         $config_url_base['to_gregbueno'] = 'http://dev.gregbueno.com';
         $config_url_base['to_eponymous4'] = 'http://dev.eponymous4.com';
-        $config_url_base['to_archive'] = 'http://dev.archive.musicwhore.org';
+        $config_url_base['to_archive'] = 'http://archive.wp-dev.musicwhore.org';
         $config_url_base['to_musicwhore'] = 'http://wp-dev.musicwhore.org';
         $config_url_base['to_reviews'] = 'http://musicwhore.wp.vigilantmedia.com';
         $config_url_base['to_filmwhore'] = 'http://film.wp-dev.musicwhore.org';
@@ -57,7 +57,7 @@ switch (ENVIRONMENT) {
         $config_url_base['to_wp'] = 'http://wp-test.vigilantmedia.com';
         $config_url_base['to_gregbueno'] = 'http://test.gregbueno.com';
         $config_url_base['to_eponymous4'] = 'http://test.eponymous4.com';
-        $config_url_base['to_archive'] = 'http://test.archive.musicwhore.org';
+        $config_url_base['to_archive'] = 'http://archive.wp-test.musicwhore.org';
         $config_url_base['to_musicwhore'] = 'http://wp-test.musicwhore.org';
         $config_url_base['to_reviews'] = 'http://musicwhore.wp-test.vigilantmedia.com';
         $config_url_base['to_filmwhore'] = 'http://film.wp-test.musicwhore.org';
